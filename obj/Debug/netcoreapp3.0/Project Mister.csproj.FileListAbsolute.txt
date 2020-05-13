@@ -1,0 +1,13 @@
+C:\Users\Owner\Desktop\Project-Mister\project-mister-master\Project Mister\bin\Debug\netcoreapp3.0\Project Mister.exe
+C:\Users\Owner\Desktop\Project-Mister\project-mister-master\Project Mister\bin\Debug\netcoreapp3.0\Project Mister.deps.json
+C:\Users\Owner\Desktop\Project-Mister\project-mister-master\Project Mister\bin\Debug\netcoreapp3.0\Project Mister.runtimeconfig.json
+C:\Users\Owner\Desktop\Project-Mister\project-mister-master\Project Mister\bin\Debug\netcoreapp3.0\Project Mister.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\Project-Mister\project-mister-master\Project Mister\bin\Debug\netcoreapp3.0\Project Mister.dll
+C:\Users\Owner\Desktop\Project-Mister\project-mister-master\Project Mister\bin\Debug\netcoreapp3.0\Project Mister.pdb
+C:\Users\Owner\Desktop\Project-Mister\project-mister-master\Project Mister\obj\Debug\netcoreapp3.0\Project Mister.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\Project-Mister\project-mister-master\Project Mister\obj\Debug\netcoreapp3.0\Project Mister.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Project-Mister\project-mister-master\Project Mister\obj\Debug\netcoreapp3.0\Project Mister.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Project-Mister\project-mister-master\Project Mister\obj\Debug\netcoreapp3.0\Project Mister.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Project-Mister\project-mister-master\Project Mister\obj\Debug\netcoreapp3.0\Project Mister.dll
+C:\Users\Owner\Desktop\Project-Mister\project-mister-master\Project Mister\obj\Debug\netcoreapp3.0\Project Mister.pdb
+C:\Users\Owner\Desktop\Project-Mister\project-mister-master\Project Mister\obj\Debug\netcoreapp3.0\Project Mister.genruntimeconfig.cache
